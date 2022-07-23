@@ -1,1 +1,27 @@
 # PROJECTS TITLES: SUBMARINE ROCK AND MINES PREDECTION USING MACHINE LEARNING ALGORITHMS..
+
+
+#ABSTRACT:  Underwater Mine usage by the naval defense system provides great security but also possesses a threat to the marine life and submarine vessels as the 
+mines can be easily mistaken for rocks. We need a much more accurate system to predict the object as it is very dangerous if a mistake is made. To have a great 
+accuracy we need accurate data to generate accurate results. 
+This paper presents a method for the prediction of underwater mines and rocks using Sonar signals. Sonar signals are used to record the various frequencies of 
+underwater objects at 60 different angles. We constructed three binary classifier models according to their accuracy. Then, prediction models are used to predict the
+mine and rock categories. Python and Supervised Machine Learning Classification algorithms are used to construct these prediction models
+
+#KEYWORDS:  Underwater Mines, SONAR, Supervised Machine Learning, Classification Algorithms, Prediction Model.
+
+# INTRODUCTION:  
+    UNDERWATER MINES:  Underwater mines or naval mines are self-contained explosive devices placed in water to destroy enemies surface ships or submarines. mines were
+    only activated by physical contact but the newly created mines can be activated by various methods.Modern mines can be activated by acoustic, pressure, and, 
+    magnetic changes in the water which provoke them to explode. These are called influence mines . Generally, underwater mines are classified as offensive or 
+    defensive warfare. Mines are strewn across hostile shipping lanes in order to damage merchant ships and military boats. Defensive mines are placed along 
+    coastlines to divert enemy submarines and ships away from critical locations and into more heavily guarded places.
+    
+    
+ # SONAR: Sound Navigation and Ranging system works on sound waves to steer and detect objects. In general, SONAR is used for acoustic mine detection that comes under 
+         Military purposes. It is also used for Finding Fish, Mapping the Sea bottom, and also for locating sea divers which are Non Military purposes. The sound wave 
+         attenuation, which increases rapidly with frequency and limits the reachable distance, restricts the frequency used for a specific underwater sonar 
+         application (or range).In mine hunting, the frequencies of underwater SONARs vary between 0.1 and 1 MHz (and their range between 1 and 0.1 km, respectively). 
+         Sonar prefers ultrasonic waves instead of infrasonic, as they cannot move under the water, and even though they have long wavelengths they cannot capture much
+         energy. We have active and passive SONAR. Passive SONAR is only used to detect noisesso they are named Listening SONAR. 
+             
