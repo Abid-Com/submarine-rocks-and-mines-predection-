@@ -1,14 +1,14 @@
-# PROJECTS TITLES: SUBMARINE ROCK AND MINES PREDECTION USING MACHINE LEARNING ALGORITHMS..
+# 👍 PROJECTS TITLES: SUBMARINE ROCK AND MINES PREDECTION USING MACHINE LEARNING ALGORITHMS..
 
 
-#ABSTRACT:  Underwater Mine usage by the naval defense system provides great security but also possesses a threat to the marine life and submarine vessels as the 
+# ABSTRACT:  Underwater Mine usage by the naval defense system provides great security but also possesses a threat to the marine life and submarine vessels as the 
 mines can be easily mistaken for rocks. We need a much more accurate system to predict the object as it is very dangerous if a mistake is made. To have a great 
 accuracy we need accurate data to generate accurate results. 
 This paper presents a method for the prediction of underwater mines and rocks using Sonar signals. Sonar signals are used to record the various frequencies of 
 underwater objects at 60 different angles. We constructed three binary classifier models according to their accuracy. Then, prediction models are used to predict the
 mine and rock categories. Python and Supervised Machine Learning Classification algorithms are used to construct these prediction models
 
-#KEYWORDS:  Underwater Mines, SONAR, Supervised Machine Learning, Classification Algorithms, Prediction Model.
+# KEYWORDS:  Underwater Mines, SONAR, Supervised Machine Learning, Classification Algorithms, Prediction Model.
 
 # INTRODUCTION:  
     UNDERWATER MINES:  Underwater mines or naval mines are self-contained explosive devices placed in water to destroy enemies surface ships or submarines. mines were
