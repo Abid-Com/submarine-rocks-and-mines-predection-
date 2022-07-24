@@ -25,9 +25,10 @@ mine and rock categories. Python and Supervised Machine Learning Classification 
          Sonar prefers ultrasonic waves instead of infrasonic, as they cannot move under the water, and even though they have long wavelengths they cannot capture much
          energy. We have active and passive SONAR. Passive SONAR is only used to detect noisesso they are named Listening SONAR. 
                
-                 https://youtu.be/KF_46xNw5V0
+    VEDIO LINK TO ACTUL WORK IN SONAR SYSTEM:  https://youtu.be/KF_46xNw5V0
 
-
-
-
-  DATA SOURCE:   https://www.kaggle.com/code/edhenrivi/introduction-classification-sonar-dataset
+    DATA SOURCE:   https://www.kaggle.com/code/edhenrivi/introduction-classification-sonar-dataset
+    
+     🙌 RESULTS:  
+                training data accuracy  86 percentage
+                Test data accuracy      75 percenatge 
